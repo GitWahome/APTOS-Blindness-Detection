@@ -14,7 +14,7 @@ Currently, Aravind technicians travel to these rural areas to capture images and
 
 In this synchronous Kernels-only competition, you'll build a machine learning model to speed up disease detection. You’ll work with thousands of images collected in rural areas to help identify diabetic retinopathy automatically. If successful, you will not only help to prevent lifelong blindness, but these models may be used to detect other sorts of diseases in the future, like glaucoma and macular degeneration.
 
-# General Approach: I make use of multiple Quick and dirty implementations of SVCs, a single layer Neural Network and Logistic regression as voters. The class predicted is either the modal class or in case of ties, the class predicted byt the single most accurate of the models.
+## General Approach: I make use of multiple Quick and dirty implementations of SVCs, a single layer Neural Network and Logistic regression as voters. The class predicted is either the modal class or in case of ties, the class predicted byt the single most accurate of the models.
 
 Some image preprocessing has been done to make the algorithm work better. So far, the best performance I have gotten our of a single run has been 79.6% with 99% variance explained and the image dimentions 400px by 400px. This version of the Kernel achieves less accuracy and runs much faster. Most of the runs consistently hit 75%+
 
