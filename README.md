@@ -19,3 +19,6 @@ In this synchronous Kernels-only competition, you'll build a machine learning mo
 Some image preprocessing has been done to make the algorithm work better. So far, the best performance I have gotten our of a single run has been 79.6% with 99% variance explained and the image dimentions 400px by 400px. This version of the Kernel achieves less accuracy and runs much faster. Most of the runs consistently hit 75%+
 
 I will be implementing a refined Neural Network for the same using tensor flow .
+This is an example of the preloaded images and their respective categories. In this example the images are already inverted and the black spots more visible due to the kernelized contrast modification. This is what has allowed such a quick and dirty implementtation using Scikit to perform commendably well.
+
+![alt text](https://i.postimg.cc/mkWHjRkz/Screen-Shot-2019-07-26-at-11-54-02-PM.png)
