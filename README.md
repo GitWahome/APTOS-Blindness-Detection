@@ -22,3 +22,4 @@ I will be implementing a refined Neural Network for the same using tensor flow .
 This is an example of the preloaded images and their respective categories. In this example the images are already inverted and the black spots more visible due to the kernelized contrast modification. This is what has allowed such a quick and dirty implementtation using Scikit to perform commendably well.
 
 ![alt text](https://i.postimg.cc/mkWHjRkz/Screen-Shot-2019-07-26-at-11-54-02-PM.png)
+
